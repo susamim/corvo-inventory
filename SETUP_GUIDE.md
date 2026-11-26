@@ -1,0 +1,1 @@
+See the chat answer for the full step-by-step guide. Summary: 1) create GitHub repo + upload all files, 2) enable Pages, 3) create Supabase project, run SUPABASE_SETUP.sql, create admin user, disable sign-ups, 4) paste URL + anon key into config.js, 5) open /admin.html and sign in.
